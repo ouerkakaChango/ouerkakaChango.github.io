@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Chango's Blog (In testing)
+
+![Image](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1591528203208&di=a1554058a267a309e666ca3ada45402d&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F357d23d074c2954d568d1a6f86a5be09d190a45116e95-0jh9Pg_fw658)
 
 [P1 Link](p1.md)
 
