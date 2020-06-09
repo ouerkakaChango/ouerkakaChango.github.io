@@ -1,43 +1,24 @@
-## Welcome to Chango's Blog (In testing)
+## Welcome to Chango's Blog (In working)
 
 ![Image](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1591528203208&di=a1554058a267a309e666ca3ada45402d&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F357d23d074c2954d568d1a6f86a5be09d190a45116e95-0jh9Pg_fw658)
 
-[P1 Link](p1.md)
+### What I did
+![Image](https://img-blog.csdnimg.cn/20190923141842147.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxNTI0NzIx,size_16,color_FFFFFF,t_70)
+![Image](https://img-blog.csdn.net/20180414145746205)
+![Image](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1591704453468&di=c6be3fc50f8b54102c6d78a6618a7798&imgtype=0&src=http%3A%2F%2Fossweb-img.qq.com%2Fupload%2Fwebplat%2Finfo%2Fnz%2F20190329%2F1553846804247848.jpg)'
+![Image](pic/Green_s18.png)
+![Image](pic/HumanTree_s1.jpg)
 
-You can use the [editor on GitHub](https://github.com/ouerkakaChango/ouerkakaChango.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Links
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ouerkakaChango/ouerkakaChango.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+Shameful past: https://tieba.baidu.com/p/4787602128  
+UE4 Shader videos: https://space.bilibili.com/7927929  
+CSDN Shader blogs: https://blog.csdn.net/qq_41524721/article/details/95326530  
+My 2D Game Engine(Developing): https://github.com/ouerkakaChango/GLSDL
+### Other
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-[RecordForFun](recordForFun.md)
+[RecordForFun](recordForFun.md)  
+[P1 Link](p1.md)
