@@ -8,11 +8,9 @@
 ![Image](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1591704453468&di=c6be3fc50f8b54102c6d78a6618a7798&imgtype=0&src=http%3A%2F%2Fossweb-img.qq.com%2Fupload%2Fwebplat%2Finfo%2Fnz%2F20190329%2F1553846804247848.jpg)'
 ![Image](pic/Green_s18.png)
 ![Image](pic/HumanTree_s1.jpg)
-
+![Image](pic/mc128-8.png)
 
 ### Links
-
-[Shameful past](https://tieba.baidu.com/p/4787602128)   
 [UE4 Shader videos](https://space.bilibili.com/7927929/video)  
 [CSDN Shader blogs](https://blog.csdn.net/qq_41524721/article/details/95326530)  
 [My 2D Game Engine](https://github.com/ouerkakaChango/GLSDL)  
@@ -21,5 +19,4 @@
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-[RecordForFun](recordForFun.md)  
 [P1 Link](p1.md)
