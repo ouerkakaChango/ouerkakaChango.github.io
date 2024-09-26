@@ -26,10 +26,3 @@
 [My github](https://github.com/ouerkakaChango)  
 [Bilibili Tech Videos/Articles](https://space.bilibili.com/7927929/video)  
 [Example Bilibili Tech Articles about SDF Modeling(English)](https://www.bilibili.com/opus/690038358036971524)  
-<!---
-### Other
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-[P1 Link](p1.md)
--->
